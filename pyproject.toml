@@ -19,4 +19,5 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://github.com/leChickenfish/CSPS_Final"
+Issues = "https://github.com/leChickenfish/CSPS_Final/issues"
 Changelog = "https://github.com/leChickenfish/CSPS_Final/blob/master/Changelog.md"
