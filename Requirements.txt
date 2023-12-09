@@ -1,0 +1,8 @@
+The packages that need to be installed are:
+-os
+-tkinter
+-filedialog from tkinter
+-numpy
+-matplotlib.pyplot
+-soundfile
+-spectrogram from scipy.signal
