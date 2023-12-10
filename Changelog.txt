@@ -1,0 +1,24 @@
+Features:
+Implemented a basic audio analyzer application using Tkinter.
+The ability to load audio files in WAV, MP3, and AAC formats was added.
+Provided audio processing functionality to convert non-WAV files to WAV format.
+Enabled plotting of a spectrogram with a color-mapped representation of power and frequency.
+Calculated and displayed the total time of the loaded audio file in seconds.
+Computed the frequency of greatest amplitude in the audio file.
+Implemented RT60 (Reverberation Time) calculation for specified low, mid, and high frequencies.
+Displayed differences in RT60 values between low-mid, mid-high, and high-low frequency ranges.
+Added an image for visual appeal in the application.
+
+User Interface:
+Included buttons for loading audio, processing audio, and plotting the spectrogram.
+Dynamically updated the button states to guide users through the analysis process.
+Improved user feedback by displaying the loaded file name on the UI.
+
+Bug Fixes:
+Addressed potential issues related to file format conversion and path handling.
+Fixed an issue where a new image was trying to be created despite no new images loading in.
+
+Miscellaneous:
+Updated documentation and comments for clarity.
+Added a sample WAV and MP3 file that can be used to test this code.
+Cleaned up unused imports and redundant code.
